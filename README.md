@@ -61,16 +61,16 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count ----
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](output/FILM_TABLE.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](output/RATING_WISE_COUNT.png)
 
 ### 5. Most Prevalent Rating per Store --
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+![Rating per Store](output/FILM_TABLE.png)
 
 ### 6. List of Films by Name, Category, and Language --
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](output/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
 ![Rental Popularity](output/POPULARITY.png)
@@ -88,7 +88,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rentals Per Month](output/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards ---
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](output/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
 ![First 100 Customer Payments](output/PAYMENT_DETAILS_FIRST_100.png)
@@ -112,7 +112,7 @@ Retrieve customer first name, last name, and email ID.
 ![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates --
-![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
+![Replacement Cost Analysis](output/RENTAL_VS_REPLACEMENT.png)
 
 ### 21. Customers with Less Than 15 Rentals --
 ![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
@@ -124,7 +124,7 @@ Retrieve customer first name, last name, and email ID.
 ![Movies Categorized by Length](output/CATEGORY_LENGTH.png)
 
 ### 24. Movie Recommendations by Age Group --
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+![Age-Based Recommendations](output/RECOMMENDATION_SYSTEM.png)
 
 ### 25. Films Inventory List
 ![Films in Inventory](output/FILM_INVENTORY.png)
@@ -136,6 +136,6 @@ Retrieve customer first name, last name, and email ID.
 ![Actors per Title](output/ACTORS_NUMBER_OF_FILMS.png)
 
 ### 28. List of Staff and Advisors --
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+![Staff and Advisors](output/CONFERENCE_LIST.png)
 
 ---
