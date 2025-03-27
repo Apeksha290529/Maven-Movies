@@ -61,13 +61,13 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count ----
-![Total Movies per Rental Rate](output/FILM_TABLE.png)
+![Total Movies per Rental Rate](output/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](output/RATING_WISE_COUNT.png)
 
 ### 5. Most Prevalent Rating per Store --
-![Rating per Store](output/FILM_TABLE.png)
+![Rating per Store](output/TOTAL_FILMS.png)
 
 ### 6. List of Films by Name, Category, and Language --
 ![Film List](output/CATEGORY_NAME.png)
@@ -94,7 +94,8 @@ Retrieve customer first name, last name, and email ID.
 ![First 100 Customer Payments](output/PAYMENT_DETAILS_FIRST_100.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](output/OLD_CUSTOMER_OVER_5$.png)  
+![Payments Over $5](output/OLD_CUSTOMER_OVER_5$.png)
+ 
 
 ### 15. Payments Over $5 for Specific Customers
 ![Payments Over $5](output/OLD_CUSTOMER_OVER_5$.png)
