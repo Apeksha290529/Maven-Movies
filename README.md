@@ -55,7 +55,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](output/CUSTOMER_TABLE.png)
+![Customer Info](output/EMAIL_ID_LIST.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
 ![Cheapest Rental](output/CHEAPEST_RENTALS.png)
